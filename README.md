@@ -28,7 +28,6 @@ Stats de batalha no GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=006amanda&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=006amanda&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
