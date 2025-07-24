@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Olá, eu sou a Amanda! 🌸</h1>
+<h1 align="center">🌸 Olá, eu sou a Amanda! 🌙</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUOxf4g1gYlPfT3Fos/giphy.gif" width="200" />
@@ -14,7 +14,7 @@ Sobre mim
 
 ---
 
-Tecnologias e ferramentas que utilizo e estou estudando
+Tecnologias e ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
@@ -39,7 +39,7 @@ Projetos
 
 - 📚 tutorIA — um aplicativo educacional focado em melhorar a interpretação de texto e gramática para alunos do ensino fundamental e médio.  
   Desenvolvido para facilitar o aprendizado de forma interativa e inteligente.  
-  🔗 [Ver projeto no GitHub](https://github.com/006amanda/tutorIA)
+  🔗 [Ver projeto no GitHub](https://github.com/006amanda/tutoria)
 
 ---
 
@@ -62,7 +62,7 @@ Selos da Amanda
 
 Onde me encontrar
 
-- 💬 Discord: amanda_r.d.c 
+- 💬 Discord: amanda_r.d.c  
 - 📫 E-mail: amandarooscosta@gmail.com
 
 ---
