@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Olá, eu sou a Amanda! 🌙</h1>
+<h1 align="center">✨ Olá, eu sou a Amanda! ✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUOxf4g1gYlPfT3Fos/giphy.gif" width="200" />
