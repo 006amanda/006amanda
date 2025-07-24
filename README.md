@@ -25,7 +25,7 @@ Tecnologias e ferramentas que utilizo e estou estudando
 
 Metas para 2025
 
-- 📲 Desenvolver e aprimorar meu projeto pessoal  
+- 📲 Desenvolver e aprimorar meus projetos pessoais  
 - 🌐 Contribuir com projetos open source e outras iniciativas
 
 ---
