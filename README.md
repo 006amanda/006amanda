@@ -9,7 +9,7 @@ Sobre mim
 
 ---
 
-Tecnologias e ferramentas
+Tecnologias e ferramentas que utilizo e estou estudando
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
