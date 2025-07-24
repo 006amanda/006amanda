@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Amanda! ✨</h1>
+<h1 align="center"> Olá, eu sou a Amanda! </h1>
 
 
 Sobre mim
@@ -44,14 +44,6 @@ Stats de batalha no GitHub
   <img src="https://github-readme-stats.vercel.app/api?username=006amanda&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=006amanda&layout=compact&theme=tokyonight" height="150"/>
 </div>
-
----
-
-Selos da Amanda
-
-![✨ Estudante focada](https://img.shields.io/badge/✨_Estudante-dedicada-purple?style=for-the-badge)
-![🌸 Otaku funcional](https://img.shields.io/badge/🌸_Otaku-funcional-pink?style=for-the-badge)
-![📚 Maratonando código e anime](https://img.shields.io/badge/📚_Maratonando-código_e_anime-yellow?style=for-the-badge)
 
 ---
 
