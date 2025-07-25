@@ -25,7 +25,7 @@ Projetos
 
 ---
 
-Stats de batalha no GitHub
+Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=006amanda&show_icons=true&theme=tokyonight" height="150"/>
