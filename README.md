@@ -46,7 +46,4 @@ Onde me encontrar
 
 ---
 
-<p align="center">
-  <img src="https://spotify-now-playing-kittinan.vercel.app/api/now-playing" alt="Spotify Now Playing" width="350" />
-</p>
 
