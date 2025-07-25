@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB6N3dhdnEybXEzOWZneWN3Z3hpbmRxMzd1cnl0ZzZmOXN3ZG4xZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8UGoG2AbnJqQw/giphy.gif" style="width:100%; max-width:600px;" alt="Banner fofo com nuvens e estrelas" />
+</p>
+
+---
+
 <h1 align="center"> Olá, eu sou a Amanda! </h1>
 
 
