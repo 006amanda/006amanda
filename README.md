@@ -4,14 +4,15 @@
 Sobre mim
 
 🎓 Estudante de Sistemas de Informação na Antonio Meneghetti Faculdade  
-🤝 Colaboradora no projeto Jovem e Tecnologia  
-🔬 Pesquisa e Iniciação Científica  
+🔬 Aluna em Projeto de Pesquisa e Iniciação Científica 
+🤝 Colaboradora no projeto Jovem e Tecnologia 
 
 ---
 
 Metas para 2025
 
-- 📲 Desenvolver e aprimorar meus projetos pessoais  
+- ✨ Aprimorar minhas habilidades
+- 📲 Desenvolver meus projetos pessoais
 - 🌐 Contribuir com projetos open source e outras iniciativas
 
 ---
