@@ -3,11 +3,9 @@
 
 Sobre mim
 
-🎓 Estudante de Sistemas de Informação na Antonio Meneghetti Faculdade  
-
-🔬 Aluna em Projeto de Pesquisa e Iniciação Científica 
-
-🤝 Colaboradora no projeto Jovem e Tecnologia 
+- 🎓 Estudante de Sistemas de Informação na Antonio Meneghetti Faculdade
+- 🔬 Aluna em Projeto de Pesquisa e Iniciação Científica
+- 🤝 Colaboradora no projeto Jovem e Tecnologia 
 
 ---
 
