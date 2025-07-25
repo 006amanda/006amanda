@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="width:100%; max-width:600px;" alt="Banner estrelado animado" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width:100%; max-width:600px;" alt="Coração animado com fundo escuro e luzes" />
 </p>
 
 ---
