@@ -9,7 +9,7 @@ Sobre mim
 
 ---
 
-Metas para 2025
+Objetivos em 2025
 
 - ✨ Aprimorar minhas habilidades
 - 📲 Desenvolver meus projetos pessoais
