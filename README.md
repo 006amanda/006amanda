@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width:100%; max-width:400px;" alt="Coração animado com fundo escuro e luzes" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width:200px;" alt="Coração animado com fundo escuro e luzes" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxf4g1gYlPfT3Fos/giphy.gif" width="200" />
 </p>
 
 ---
