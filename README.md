@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=80431543340415196" height="354" width="450" frameborder="0" scrolling="no"/iframe>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width:100%; max-width:400px;" alt="Coração animado com fundo escuro e luzes" />
 </p>
 
 ---
