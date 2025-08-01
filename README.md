@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=80431543340415196" height="640" width="320" frameborder="0" scrolling="no"/>
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=80431543340415196" height="354" width="450" frameborder="0" scrolling="no"/iframe>
 </p>
 
 ---
