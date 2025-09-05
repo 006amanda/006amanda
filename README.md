@@ -41,7 +41,8 @@ Stats
 
 Onde me encontrar
 
-- 💬 Discord: amanda_r.d.c  
+- 💬 Discord: amanda_r.d.c
+- 📱 Instagram: amanda_r.d.c
 - 📫 E-mail: amandarooscosta@gmail.com
 
 ---
