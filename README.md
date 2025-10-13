@@ -47,4 +47,8 @@ Onde me encontrar
 
 ---
 
+Spotify
 
+<div align="center">
+ [![Spotify](https://novatorem-006amanda.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfbfksh7wd9hglevfbn7lgz)
+</div>
