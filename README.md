@@ -46,3 +46,11 @@ Onde me encontrar
 - 📫 E-mail: amandarooscosta@gmail.com
 
 ---
+
+Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/w9zfbfksh7wd9hglevfbn7lgz">
+    <img src="https://spotify-readme-pvlk.vercel.app/api/spotify" alt="Spotify"/>
+  </a>
+</p>
