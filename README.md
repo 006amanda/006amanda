@@ -50,5 +50,5 @@ Onde me encontrar
 Spotify
 
 <div align="center">
-[![Spotify](https://spotify-readme-pvlk.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfbfksh7wd9hglevfbn7lgz)
+  [![Spotify](https://spotify-readme-pvlk.vercel.app/api/spotify)](https://open.spotify.com/user/w9zfbfksh7wd9hglevfbn7lgz)
 </div>
