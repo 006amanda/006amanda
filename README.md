@@ -19,7 +19,7 @@ Objetivos em 2025
 
 - ✨ Aprimorar minhas habilidades
 - 📲 Desenvolver meus projetos pessoais
-- 🌐 Contribuir com projetos open source e outras iniciativas
+- 🌐 Contribuir com projetos e outras iniciativas
 
 ---
 
