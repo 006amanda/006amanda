@@ -29,12 +29,6 @@ Projetos
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=006amanda&show_icons=true&theme=tokyonight" height="150"/>
-</div>
-
----
-
 Onde me encontrar
 
 - 💬 Discord: amanda_r.d.c
