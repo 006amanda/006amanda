@@ -10,8 +10,6 @@
 Sobre mim
 
 - 🎓 Estudante de Sistemas de Informação na Antonio Meneghetti Faculdade
-- 🔬 Aluna em Projeto de Pesquisa e Iniciação Científica de SI
-- 🤝 Colaboradora no Projeto Jovem e Tecnologia 
 
 ---
 
