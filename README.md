@@ -15,7 +15,7 @@ Sobre mim
 
 Objetivos em 2025
 
-- ✨ Aprimorar minhas habilidades
+- ✨ Aprimorar conhecimentos
 - 📲 Desenvolver meus projetos pessoais
 - 🌐 Contribuir com projetos e outras iniciativas
 
