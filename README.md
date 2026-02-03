@@ -13,7 +13,7 @@ Sobre mim
 
 ---
 
-Objetivos em 2025
+Objetivos em 2026
 
 - ✨ Aprimorar conhecimentos
 - 📲 Desenvolver meus projetos pessoais
