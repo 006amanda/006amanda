@@ -9,7 +9,7 @@
 
 Sobre mim
 
-- 🎓 Bacharelanda de Sistemas de Informação na Antonio Meneghetti Faculdade
+- 🎓 Acadêmica de Sistemas de Informação na Antonio Meneghetti Faculdade
 
 ---
 
